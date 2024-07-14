@@ -39,19 +39,19 @@ The transformer model consists of the following components:
 - **posenc-2048-512.pickle**: Position encoding for the sentence.
 
 ## Learning Rate
-![](https://github.com/kanish-h-h/Transformer-due-eng/blob/main/assets/Learning%20Rate.png)
+![](https://github.com/kanish-h-h/Transformer-due-eng/blob/main/assets/images/Learning%20Rate.png)
 
 ## Position Encoding
-![](https://github.com/kanish-h-h/Transformer-due-eng/blob/main/assets/model%20architecture/Positional%20Encoding.png)
+![](https://github.com/kanish-h-h/Transformer-due-eng/blob/main/assets/images/model%20architecture/Positional%20Encoding.png)
 
 **PE Curves**
-![](https://github.com/kanish-h-h/Transformer-due-eng/blob/main/assets/model%20architecture/Positional%20Encoding%20Curves.png)
+![](https://github.com/kanish-h-h/Transformer-due-eng/blob/main/assets/images/model%20architecture/Positional%20Encoding%20Curves.png)
 
 **Subplots**
-![](https://github.com/kanish-h-h/Transformer-due-eng/blob/main/assets/model%20architecture/Positional%20Encoding%20subplots.png)
+![](https://github.com/kanish-h-h/Transformer-due-eng/blob/main/assets/images/model%20architecture/Positional%20Encoding%20subplots.png)
 
 ## Loss and Accuracy
-![](https://github.com/kanish-h-h/Transformer-due-eng/blob/main/assets/model%20architecture/Loss%20and%20Accuracy.png)
+![](https://github.com/kanish-h-h/Transformer-due-eng/blob/main/assets/images/model%20architecture/Loss%20and%20Accuracy.png)
 
 ## Acknowledgements
 
