@@ -20,17 +20,17 @@ Clone the repository:
 The transformer model consists of the following components:
 
 - **Encoder**: Processes the input sequence.
-![](https://github.com/kanish-h-h/Transformer-due-eng/tree/main/assets/model%20architecture/encoder.png)
+![](https://github.com/kanish-h-h/Transformer-due-eng/blob/main/assets/model%20architecture/encoder.png)
 - **Decoder**: Generates the output sequence.
-![](https://github.com/kanish-h-h/Transformer-due-eng/tree/main/assets/model%20architecture/decoder.png)
+![](https://github.com/kanish-h-h/Transformer-due-eng/blob/main/assets/model%20architecture/decoder.png)
 - **Self-Attention**: Allows the model to focus on different parts of the input sequence.
-![](https://github.com/kanish-h-h/Transformer-due-eng/tree/main/assets/model%20architecture/self-attention.png)
+![](https://github.com/kanish-h-h/Transformer-due-eng/blob/main/assets/model%20architecture/self-attention.png)
 - **Cross-Attention**: Allows the decoder to focus on relevant parts of the input sequence.
-![](https://github.com/kanish-h-h/Transformer-due-eng/tree/main/assets/model%20architecture/cross-attention.png)
+![](https://github.com/kanish-h-h/Transformer-due-eng/blob/main/assets/model%20architecture/cross-attention.png)
 - **Feedforward**: Adds non-linearity and complexity to the model.
-![](https://github.com/kanish-h-h/Transformer-due-eng/tree/main/assets/model%20architecture/feedforward.png)
+![](https://github.com/kanish-h-h/Transformer-due-eng/blob/main/assets/model%20architecture/feedforward.png)
 - **Transformer**: transformer itself.
-![](https://github.com/kanish-h-h/Transformer-due-eng/tree/main/assets/model%20architecture/transformer.png)
+![](https://github.com/kanish-h-h/Transformer-due-eng/blob/main/assets/model%20architecture/transformer.png)
 
 ## Pickle files
 
@@ -39,19 +39,19 @@ The transformer model consists of the following components:
 - **posenc-2048-512.pickle**: Position encoding for the sentence.
 
 ## Learning Rate
-![](https://github.com/kanish-h-h/Transformer-due-eng/tree/main/assets/Learning%20Rate.png)
+![](https://github.com/kanish-h-h/Transformer-due-eng/blob/main/assets/Learning%20Rate.png)
 
 ## Position Encoding
-![](https://github.com/kanish-h-h/Transformer-due-eng/tree/main/assets/model%20architecture/Positional%20Encoding.png)
+![](https://github.com/kanish-h-h/Transformer-due-eng/blob/main/assets/model%20architecture/Positional%20Encoding.png)
 
 **PE Curves**
-![](https://github.com/kanish-h-h/Transformer-due-eng/tree/main/assets/model%20architecture/Positional%20Encoding%20Curves.png)
+![](https://github.com/kanish-h-h/Transformer-due-eng/blob/main/assets/model%20architecture/Positional%20Encoding%20Curves.png)
 
 **Subplots**
-![](https://github.com/kanish-h-h/Transformer-due-eng/tree/main/assets/model%20architecture/Positional%20Encoding%20subplots.png)
+![](https://github.com/kanish-h-h/Transformer-due-eng/blob/main/assets/model%20architecture/Positional%20Encoding%20subplots.png)
 
 ## Loss and Accuracy
-![](https://github.com/kanish-h-h/Transformer-due-eng/tree/main/assets/model%20architecture/Loss%20and%20Accuracy.png)
+![](https://github.com/kanish-h-h/Transformer-due-eng/blob/main/assets/model%20architecture/Loss%20and%20Accuracy.png)
 
 ## Acknowledgements
 
