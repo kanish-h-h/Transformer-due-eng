@@ -1,6 +1,6 @@
 # Transformer Attention Model for English to German Translation
 
-This repository contains the implementation of a Transformer model for translating German (deu) to English (eng) using attention. 
+This repository contains the implementation of a Transformer model for translating English (eng) to German (deu) using attention. 
 
 This project is the implementation of paper : [Attention is all you need](https://arxiv.org/abs/1706.03762)
 
