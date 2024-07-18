@@ -1,4 +1,4 @@
-# Transformer Attention Model for German to English Translation
+# Transformer Attention Model for English to German Translation
 
 This repository contains the implementation of a Transformer model for translating German (deu) to English (eng) using attention. 
 
